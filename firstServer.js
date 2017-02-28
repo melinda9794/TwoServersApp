@@ -2,7 +2,7 @@
 var http = require("http");
 
 //define a port to listen to
-var port =7000;
+var port =1024;
 
 // function to handle requests
 function handleRequest(request, response) {
